@@ -1,0 +1,1454 @@
+{
+  "schema": 1,
+  "observed_date": "2026-10-25",
+  "repository": "tcballard/iOMARCHY",
+  "status": "API metadata only; no local ZIP hash verification; no hardware qualification",
+  "runs": [
+    {
+      "run_id": 38356786576,
+      "source_revision": "f2456123495a84bfcb164ad893176826dd3d68c0",
+      "created_at": "2026-10-13T06:27:20Z",
+      "artifacts": [
+        {
+          "id": 11794050669,
+          "name": "firstboot-build-f2456123495a84bfcb164ad893176826dd3d68c0",
+          "size_in_bytes": 17390953,
+          "expired": false,
+          "created_at": "2026-10-13T06:35:24Z",
+          "expires_at": "2026-11-12T06:35:22Z",
+          "published_digest": "sha256:cfd99137cb051bd8bd1e73db7a753825aafe38d4c5f35db5c46900c97fcbde22"
+        }
+      ]
+    },
+    {
+      "run_id": 38356802359,
+      "source_revision": "f2456123495a84bfcb164ad893176826dd3d68c0",
+      "created_at": "2026-10-13T06:27:31Z",
+      "artifacts": [
+        {
+          "id": 11793961682,
+          "name": "firstboot-build-c82e06174c10582f77f108c9237df2b7b553a656",
+          "size_in_bytes": 17390961,
+          "expired": false,
+          "created_at": "2026-10-13T06:40:43Z",
+          "expires_at": "2026-11-12T06:40:40Z",
+          "published_digest": "sha256:33a7778565c4f7f42b6bbbf23ab4a6db3e7c77c161ce005c7eca82958f7fd0af"
+        }
+      ]
+    },
+    {
+      "run_id": 38358342880,
+      "source_revision": "9a5d55bf6d9c4005a9dd11030ee5bedfc8f169c6",
+      "created_at": "2026-10-13T06:43:39Z",
+      "artifacts": [
+        {
+          "id": 11793687036,
+          "name": "firstboot-build-d8983e8551508d1f09d71765b6da96a5bbbc3911",
+          "size_in_bytes": 12351331,
+          "expired": false,
+          "created_at": "2026-10-13T06:47:32Z",
+          "expires_at": "2026-11-12T06:47:30Z",
+          "published_digest": "sha256:59106247000c10b8276b8d1079c4256716f909a527797ad0a37ec601b9bea02b"
+        },
+        {
+          "id": 11793283345,
+          "name": "arm64-userspace-d8983e8551508d1f09d71765b6da96a5bbbc3911",
+          "size_in_bytes": 295448466,
+          "expired": false,
+          "created_at": "2026-10-13T06:44:30Z",
+          "expires_at": "2026-11-12T06:44:21Z",
+          "published_digest": "sha256:6e541db638dc58c75bcce5c0d93ba1bc133c5c16c15771c349a20bac7f8e8915"
+        }
+      ]
+    },
+    {
+      "run_id": 38358701394,
+      "source_revision": "4860ef034d760dda820019629540072070033197",
+      "created_at": "2026-10-13T06:47:17Z",
+      "artifacts": [
+        {
+          "id": 11794312571,
+          "name": "firstboot-build-724ef40691ff4ea505f12b3d0d0f5fd4779a6e5c",
+          "size_in_bytes": 40729,
+          "expired": false,
+          "created_at": "2026-10-13T06:51:33Z",
+          "expires_at": "2026-11-12T06:51:32Z",
+          "published_digest": "sha256:2b2fef632c45f06ed9831d9946e41fc50a313c4bda2157db146cc6076fbe2bf6"
+        }
+      ]
+    },
+    {
+      "run_id": 38359096052,
+      "source_revision": "3a6f7f159387bd73782c5208c7ae36d1d03de1a2",
+      "created_at": "2026-10-13T06:51:18Z",
+      "artifacts": [
+        {
+          "id": 11794014962,
+          "name": "firstboot-build-14478656d40c62df7f7a9797f48c821506a70f0f",
+          "size_in_bytes": 17415080,
+          "expired": false,
+          "created_at": "2026-10-13T06:59:03Z",
+          "expires_at": "2026-11-12T06:59:02Z",
+          "published_digest": "sha256:96ba371bbf9e1998e4ce33e50e8381c12f0b81af6a4722831c713b462cbd8e89"
+        }
+      ]
+    },
+    {
+      "run_id": 38361273071,
+      "source_revision": "b6adb1e247754b758ede92252ad9f97cbf6fa763",
+      "created_at": "2026-10-13T07:13:01Z",
+      "artifacts": [
+        {
+          "id": 11795276168,
+          "name": "firstboot-build-95338a583785d310754b7ed2888ee41dd56eda55",
+          "size_in_bytes": 1040301,
+          "expired": false,
+          "created_at": "2026-10-13T07:16:48Z",
+          "expires_at": "2026-11-12T07:16:46Z",
+          "published_digest": "sha256:6bce5474c14d8a6c469ae2a2f35cc029adb6cfbff722b6d23b6e5d63a3acf8b2"
+        },
+        {
+          "id": 11795042446,
+          "name": "arm64-userspace-95338a583785d310754b7ed2888ee41dd56eda55",
+          "size_in_bytes": 826048333,
+          "expired": false,
+          "created_at": "2026-10-13T07:15:44Z",
+          "expires_at": "2026-11-12T07:15:38Z",
+          "published_digest": "sha256:bb4139178e4724c8f013f873e77dc390a2052049ef5aeb018011a1f39b3d4841"
+        }
+      ]
+    },
+    {
+      "run_id": 38361636151,
+      "source_revision": "9175d17c2dd2a328f3091dc8d0d50470bee7f8c1",
+      "created_at": "2026-10-13T07:16:32Z",
+      "artifacts": [
+        {
+          "id": 11795965336,
+          "name": "firstboot-build-91da1e33be79421c42aa4ea6f22adc44c7a15758",
+          "size_in_bytes": 18414024,
+          "expired": false,
+          "created_at": "2026-10-13T07:26:51Z",
+          "expires_at": "2026-11-12T07:26:49Z",
+          "published_digest": "sha256:b8e59f946a17d19664b24c5c64987486c623ababa517c088b0a31175559ba6d3"
+        },
+        {
+          "id": 11795810432,
+          "name": "arm64-userspace-91da1e33be79421c42aa4ea6f22adc44c7a15758",
+          "size_in_bytes": 1548875066,
+          "expired": false,
+          "created_at": "2026-10-13T07:25:04Z",
+          "expires_at": "2026-11-12T07:24:48Z",
+          "published_digest": "sha256:c6a3bf815f7c6899558e13d492f32f6679ee13b99c86ae992100b07d7266bfc0"
+        }
+      ]
+    },
+    {
+      "run_id": 38362916097,
+      "source_revision": "b10f88cf4168a1e3b52a82cf2b82727805a22591",
+      "created_at": "2026-10-13T07:28:58Z",
+      "artifacts": [
+        {
+          "id": 11796615120,
+          "name": "arm64-userspace-1a54a098d633449f6b2922be1ff67cd489f9e127",
+          "size_in_bytes": 1561117927,
+          "expired": false,
+          "created_at": "2026-10-13T07:42:42Z",
+          "expires_at": "2026-11-12T07:42:34Z",
+          "published_digest": "sha256:256ca4f8387dcc282ae4ac80c95820e5d9d026f8ba43b48756b9d8cefba545b8"
+        },
+        {
+          "id": 11796455237,
+          "name": "firstboot-build-1a54a098d633449f6b2922be1ff67cd489f9e127",
+          "size_in_bytes": 18414330,
+          "expired": false,
+          "created_at": "2026-10-13T07:43:01Z",
+          "expires_at": "2026-11-12T07:42:58Z",
+          "published_digest": "sha256:a8b10b2998dadf4fb0c74f3f869bbeead1e234d8b67dcc517698a0cda7060cc5"
+        }
+      ]
+    },
+    {
+      "run_id": 38364931432,
+      "source_revision": "6990c5daa9c494ca604b748fc93906ae2d5f6738",
+      "created_at": "2026-10-13T07:47:30Z",
+      "artifacts": [
+        {
+          "id": 11797426594,
+          "name": "arm64-userspace-913fab0d7de788ed75adf6edd8a99831770b4515",
+          "size_in_bytes": 1561111604,
+          "expired": false,
+          "created_at": "2026-10-13T08:02:32Z",
+          "expires_at": "2026-11-12T08:02:16Z",
+          "published_digest": "sha256:9fb31eacd369d13adf75dbbaa8805dc7e075072860ae5c5fcbf6d2c7639aa462"
+        },
+        {
+          "id": 11797216649,
+          "name": "firstboot-build-913fab0d7de788ed75adf6edd8a99831770b4515",
+          "size_in_bytes": 18414276,
+          "expired": false,
+          "created_at": "2026-10-13T07:59:22Z",
+          "expires_at": "2026-11-12T07:59:21Z",
+          "published_digest": "sha256:f100074d034b49790834f71ebdf2fc0f1f948544e2a1e7dffa2d75d576c8bf3c"
+        }
+      ]
+    },
+    {
+      "run_id": 38366822606,
+      "source_revision": "8a8ef991a1b600058feb31a3af1490976e1c5b89",
+      "created_at": "2026-10-13T08:04:38Z",
+      "artifacts": [
+        {
+          "id": 11796428906,
+          "name": "firstboot-build-5b7ef308dd04dec1cf68e3780653f437b9905728",
+          "size_in_bytes": 253165,
+          "expired": false,
+          "created_at": "2026-10-13T08:05:36Z",
+          "expires_at": "2026-11-12T08:05:35Z",
+          "published_digest": "sha256:55825377f3cee84f40dedcac28ab65e7682a86126d3bbb20c535c8219a88b69f"
+        },
+        {
+          "id": 11796309250,
+          "name": "arm64-userspace-5b7ef308dd04dec1cf68e3780653f437b9905728",
+          "size_in_bytes": 548022578,
+          "expired": false,
+          "created_at": "2026-10-13T08:06:16Z",
+          "expires_at": "2026-11-12T08:06:09Z",
+          "published_digest": "sha256:c1312e0743e1485b13fa2921f34f40cb5869c9538b9f4022b4492e41691d6d96"
+        }
+      ]
+    },
+    {
+      "run_id": 38366868805,
+      "source_revision": "22260ab139731a30da5925a236530a38b6bc475a",
+      "created_at": "2026-10-13T08:05:03Z",
+      "artifacts": [
+        {
+          "id": 11798475336,
+          "name": "firstboot-build-6c051d86d870906e917edf0c76fff5fdd061e947",
+          "size_in_bytes": 13358174,
+          "expired": false,
+          "created_at": "2026-10-13T08:18:24Z",
+          "expires_at": "2026-11-12T08:18:22Z",
+          "published_digest": "sha256:235684940c95ef501680288076db347d04fa861db140aef1329646176395e091"
+        },
+        {
+          "id": 11797572533,
+          "name": "arm64-userspace-6c051d86d870906e917edf0c76fff5fdd061e947",
+          "size_in_bytes": 1561199176,
+          "expired": false,
+          "created_at": "2026-10-13T08:15:30Z",
+          "expires_at": "2026-11-12T08:15:17Z",
+          "published_digest": "sha256:218d79fbe9de027ea7e700cbfd6f2f176fe6d3c632fba9d60b038b9b2e99e507"
+        }
+      ]
+    },
+    {
+      "run_id": 38368325307,
+      "source_revision": "beea8bfd709ad954a7f6c1a97fabba3bc06e7608",
+      "created_at": "2026-10-13T08:18:08Z",
+      "artifacts": [
+        {
+          "id": 11798620277,
+          "name": "firstboot-build-f066979a381f9006fe26c42224c197fda0e0cb3c",
+          "size_in_bytes": 1041031,
+          "expired": false,
+          "created_at": "2026-10-13T08:22:02Z",
+          "expires_at": "2026-11-12T08:22:01Z",
+          "published_digest": "sha256:9f3607bed93e85ccd3e189b1e786f5c3b3b247fc4a5ee8cf71f55a20121b24fd"
+        },
+        {
+          "id": 11797792796,
+          "name": "arm64-userspace-f066979a381f9006fe26c42224c197fda0e0cb3c",
+          "size_in_bytes": 1553603900,
+          "expired": false,
+          "created_at": "2026-10-13T08:22:13Z",
+          "expires_at": "2026-11-12T08:22:00Z",
+          "published_digest": "sha256:78628d2d987cb9985bbf6aec1948059fe5854dbe78cc72c3fbff9afc93ac5499"
+        }
+      ]
+    },
+    {
+      "run_id": 38368705629,
+      "source_revision": "bcf4a4e02fc56d349470480b8868cb0ff329470e",
+      "created_at": "2026-10-13T08:21:29Z",
+      "artifacts": [
+        {
+          "id": 11797852482,
+          "name": "firstboot-build-10b158515fd374aed017caa5a0f4196f5462d6df",
+          "size_in_bytes": 1038102,
+          "expired": false,
+          "created_at": "2026-10-13T08:23:48Z",
+          "expires_at": "2026-11-12T08:23:47Z",
+          "published_digest": "sha256:bbadbf9fea103534ef06ff0cc25bf9a23c2f2af61b90b41b4c4bb1425b6c03aa"
+        }
+      ]
+    },
+    {
+      "run_id": 38368919851,
+      "source_revision": "d2112de0377df8d892a5585cfc51f8a5bd2f2da6",
+      "created_at": "2026-10-13T08:23:22Z",
+      "artifacts": [
+        {
+          "id": 11798671412,
+          "name": "arm64-userspace-b5eb6b0533f26f084293677aa6d61488262b58c1",
+          "size_in_bytes": 1553603541,
+          "expired": false,
+          "created_at": "2026-10-13T08:26:49Z",
+          "expires_at": "2026-11-12T08:26:38Z",
+          "published_digest": "sha256:01ca11488d433d6dfff9558a731e4f40ae3ca013c8567e17ec1e27527dfe6364"
+        },
+        {
+          "id": 11798641395,
+          "name": "firstboot-build-b5eb6b0533f26f084293677aa6d61488262b58c1",
+          "size_in_bytes": 1039243,
+          "expired": false,
+          "created_at": "2026-10-13T08:26:37Z",
+          "expires_at": "2026-11-12T08:26:36Z",
+          "published_digest": "sha256:3301073b11761d3ca3e91718f2d985a18768a0fb4116fdc16f5233fb0c3f4b96"
+        }
+      ]
+    },
+    {
+      "run_id": 38369190245,
+      "source_revision": "abe834d92bc15b851b62e01c853230180029525f",
+      "created_at": "2026-10-13T08:25:45Z",
+      "artifacts": [
+        {
+          "id": 11799056127,
+          "name": "arm64-userspace-867546be52f787ebe6b29c597077ffbdf5e8010b",
+          "size_in_bytes": 1561256413,
+          "expired": false,
+          "created_at": "2026-10-13T08:38:30Z",
+          "expires_at": "2026-11-12T08:38:18Z",
+          "published_digest": "sha256:7fe1ca0d4f0bb2992fd4980ab82da033729e149ccb17bff0628b3af624f37023"
+        },
+        {
+          "id": 11798118123,
+          "name": "firstboot-build-867546be52f787ebe6b29c597077ffbdf5e8010b",
+          "size_in_bytes": 18414426,
+          "expired": false,
+          "created_at": "2026-10-13T08:33:59Z",
+          "expires_at": "2026-11-12T08:33:57Z",
+          "published_digest": "sha256:06d3975cf1d315bf0c6c70ef8beca5640e246f53b36c2c4f72ceafb4d6415e7e"
+        }
+      ]
+    },
+    {
+      "run_id": 38370893989,
+      "source_revision": "6766b0e2bfba6f6c2f5f70e3a0815a4055110018",
+      "created_at": "2026-10-13T08:40:40Z",
+      "artifacts": [
+        {
+          "id": 11799118225,
+          "name": "firstboot-build-44ea6e3bcb78478c1a6d23094abd907fb0297278",
+          "size_in_bytes": 18414433,
+          "expired": false,
+          "created_at": "2026-10-13T08:50:32Z",
+          "expires_at": "2026-11-12T08:50:30Z",
+          "published_digest": "sha256:12850d3902598e8b8eba0e39114774c661fe0d67e99d57e0709e4e3914af0029"
+        },
+        {
+          "id": 11798964345,
+          "name": "arm64-userspace-44ea6e3bcb78478c1a6d23094abd907fb0297278",
+          "size_in_bytes": 1561411668,
+          "expired": false,
+          "created_at": "2026-10-13T08:52:37Z",
+          "expires_at": "2026-11-12T08:52:23Z",
+          "published_digest": "sha256:90857b6a254d62fe26627f8bfec067bca3bf17b33dd1ebc0f0ebf32b81d4fbe0"
+        }
+      ]
+    },
+    {
+      "run_id": 38441775176,
+      "source_revision": "2ea4c3ca3e1f0b339223aebcae6b46dd3f2186ca",
+      "created_at": "2026-10-13T17:49:32Z",
+      "artifacts": [
+        {
+          "id": 11835412925,
+          "name": "arm64-userspace-d296f25c6a2b5a54b9d4fcf621814c3308087f72",
+          "size_in_bytes": 1553611923,
+          "expired": false,
+          "created_at": "2026-10-13T17:53:41Z",
+          "expires_at": "2026-11-12T17:53:28Z",
+          "published_digest": "sha256:6eae0e240aa07d7627a2253e1a41491c312c0438da865dd68796bab4abaf8059"
+        },
+        {
+          "id": 11834824387,
+          "name": "firstboot-build-d296f25c6a2b5a54b9d4fcf621814c3308087f72",
+          "size_in_bytes": 1042527,
+          "expired": false,
+          "created_at": "2026-10-13T17:53:36Z",
+          "expires_at": "2026-11-12T17:53:35Z",
+          "published_digest": "sha256:c595a0327be34f5f5f3649700b96d98044725578574ac08a2c16d6c05dfaa853"
+        }
+      ]
+    },
+    {
+      "run_id": 38442195191,
+      "source_revision": "4c5fbd6ec7b81955a0b87afc803cbf395dc20b7d",
+      "created_at": "2026-10-13T17:52:39Z",
+      "artifacts": [
+        {
+          "id": 11837245384,
+          "name": "firstboot-build-c569e67e74f75fbd7d167739b4d3602f28913acc",
+          "size_in_bytes": 1039253,
+          "expired": false,
+          "created_at": "2026-10-13T17:55:17Z",
+          "expires_at": "2026-11-12T17:55:16Z",
+          "published_digest": "sha256:c694f2ad700b1da9c73edb4477519a0fb2e41e226b21fd0adc45d65b3d2277fc"
+        }
+      ]
+    },
+    {
+      "run_id": 38442419215,
+      "source_revision": "293b6cb8c4446bda977e39bb7347ddc070e3dc80",
+      "created_at": "2026-10-13T17:54:19Z",
+      "artifacts": [
+        {
+          "id": 11837765921,
+          "name": "arm64-userspace-4baf94360e85de178349019cd21f6a002d8e5ee9",
+          "size_in_bytes": 903428341,
+          "expired": false,
+          "created_at": "2026-10-13T17:59:31Z",
+          "expires_at": "2026-11-12T17:59:22Z",
+          "published_digest": "sha256:8ff132a91de052ba7432f7fc5491bb062193680093f69efbc9799d52fab36c8d"
+        },
+        {
+          "id": 11837400988,
+          "name": "firstboot-build-4baf94360e85de178349019cd21f6a002d8e5ee9",
+          "size_in_bytes": 13351995,
+          "expired": false,
+          "created_at": "2026-10-13T17:59:23Z",
+          "expires_at": "2026-11-12T17:59:21Z",
+          "published_digest": "sha256:375021a985e7bfff826c990f923f00593587706973b3c1c4eb327547911757ed"
+        }
+      ]
+    },
+    {
+      "run_id": 38442945957,
+      "source_revision": "7ac9b275e71ffc18dd7962e5d52e2bbff1ee8035",
+      "created_at": "2026-10-13T17:58:14Z",
+      "artifacts": [
+        {
+          "id": 11838360315,
+          "name": "firstboot-build-aa0d0e762b60af998a9822601f50d9d632c533dc",
+          "size_in_bytes": 18415708,
+          "expired": false,
+          "created_at": "2026-10-13T18:12:44Z",
+          "expires_at": "2026-11-12T18:12:43Z",
+          "published_digest": "sha256:23f576fd95d3390584260c6ef991830f02c8f856a0d2b3b6ca27252012ba7617"
+        },
+        {
+          "id": 11837719067,
+          "name": "arm64-userspace-aa0d0e762b60af998a9822601f50d9d632c533dc",
+          "size_in_bytes": 2447315967,
+          "expired": false,
+          "created_at": "2026-10-13T18:20:08Z",
+          "expires_at": "2026-11-12T18:19:57Z",
+          "published_digest": "sha256:6d4df4c82194bf7d4d9163b7a002dd2b1fcd3c270964a509eeb5cb8363096b4a"
+        }
+      ]
+    },
+    {
+      "run_id": 38468521630,
+      "source_revision": "223ced3726f783d3127049fe283824f415685afc",
+      "created_at": "2026-10-13T21:10:08Z",
+      "artifacts": [
+        {
+          "id": 11851870506,
+          "name": "firstboot-build-27208c0211e1d2492b17e15de5fcf4688a103054",
+          "size_in_bytes": 13358045,
+          "expired": false,
+          "created_at": "2026-10-13T21:17:57Z",
+          "expires_at": "2026-11-12T21:17:55Z",
+          "published_digest": "sha256:ee021c296298bcf62a073c08da6d52e0eac924f272fff7292c7fabe952dee39d"
+        },
+        {
+          "id": 11851495135,
+          "name": "arm64-userspace-27208c0211e1d2492b17e15de5fcf4688a103054",
+          "size_in_bytes": 485231771,
+          "expired": false,
+          "created_at": "2026-10-13T21:12:28Z",
+          "expires_at": "2026-11-12T21:12:23Z",
+          "published_digest": "sha256:74dabee13c5477d389d7451270a6a2e1ee87913ed54e9ae18a297acaa5e8b818"
+        }
+      ]
+    },
+    {
+      "run_id": 38469473280,
+      "source_revision": "c4f09afcedd2a2c8755905ea42b5c19d32fe75ba",
+      "created_at": "2026-10-13T21:17:30Z",
+      "artifacts": [
+        {
+          "id": 11851701313,
+          "name": "firstboot-build-6bda7503b170a39579f9e87cf1f9f0382597ec55",
+          "size_in_bytes": 1040859,
+          "expired": false,
+          "created_at": "2026-10-13T21:20:48Z",
+          "expires_at": "2026-11-12T21:20:47Z",
+          "published_digest": "sha256:1b44ba4b13c3034432107785c562b09a0cdd7c4e62a63954bcea3f9ab77eab19"
+        }
+      ]
+    },
+    {
+      "run_id": 38469749235,
+      "source_revision": "d4318bdc2dd66ad6280faf3db5e0a9fb9008d246",
+      "created_at": "2026-10-13T21:19:41Z",
+      "artifacts": [
+        {
+          "id": 11850992875,
+          "name": "firstboot-build-1c9e7e4ffe56553191148f78935e554bca954ce8",
+          "size_in_bytes": 1040888,
+          "expired": false,
+          "created_at": "2026-10-13T21:22:24Z",
+          "expires_at": "2026-11-12T21:22:23Z",
+          "published_digest": "sha256:a63fd421d53573abc0646ca26f3e288e36e84be4b70029a46b070fd113462eb9"
+        }
+      ]
+    },
+    {
+      "run_id": 38469989306,
+      "source_revision": "25daababa72f4ef358ed84c5177a62de42850c5a",
+      "created_at": "2026-10-13T21:21:33Z",
+      "artifacts": []
+    },
+    {
+      "run_id": 38470301884,
+      "source_revision": "3bdfd03de5e0a5f448a1da25fce07f4b65e15cde",
+      "created_at": "2026-10-13T21:24:02Z",
+      "artifacts": [
+        {
+          "id": 11852265389,
+          "name": "arm64-userspace-ad3674eaafe53ce0adfccc6ece462a1c29ea4297",
+          "size_in_bytes": 1561455899,
+          "expired": false,
+          "created_at": "2026-10-13T21:34:55Z",
+          "expires_at": "2026-11-12T21:34:41Z",
+          "published_digest": "sha256:bceaad8bb1986d407afdd98d105b000b90faa009770add6f54a1e794650316ed"
+        },
+        {
+          "id": 11850664815,
+          "name": "firstboot-build-ad3674eaafe53ce0adfccc6ece462a1c29ea4297",
+          "size_in_bytes": 18417802,
+          "expired": false,
+          "created_at": "2026-10-13T21:32:14Z",
+          "expires_at": "2026-11-12T21:32:12Z",
+          "published_digest": "sha256:4ebd21cb861f71d01aeb841117ab54318e7bca6dbd3ca4021bfa639fee5995fe"
+        }
+      ]
+    },
+    {
+      "run_id": 38472217368,
+      "source_revision": "a345042f666a0e4e661e234cfeb076d0f8f63be1",
+      "created_at": "2026-10-13T21:39:17Z",
+      "artifacts": [
+        {
+          "id": 11853681640,
+          "name": "ram-graphics-evidence-6afc828561b72e3e906a777a1fef8dbf854ad5b7",
+          "size_in_bytes": 33410,
+          "expired": false,
+          "created_at": "2026-10-13T21:57:32Z",
+          "expires_at": "2026-11-12T21:57:31Z",
+          "published_digest": "sha256:00bc6935cbef623b5d7aad49324ac92a90976bdf9dc165d7c627ea06db8d1670"
+        },
+        {
+          "id": 11853616690,
+          "name": "arm64-userspace-6afc828561b72e3e906a777a1fef8dbf854ad5b7",
+          "size_in_bytes": 2466292506,
+          "expired": false,
+          "created_at": "2026-10-13T21:57:58Z",
+          "expires_at": "2026-11-12T21:57:33Z",
+          "published_digest": "sha256:3334de437e59005ac625e69658524b02961d2129011a9ee2b9e3e41443557038"
+        },
+        {
+          "id": 11853556352,
+          "name": "firstboot-build-6afc828561b72e3e906a777a1fef8dbf854ad5b7",
+          "size_in_bytes": 18417845,
+          "expired": false,
+          "created_at": "2026-10-13T21:53:22Z",
+          "expires_at": "2026-11-12T21:53:19Z",
+          "published_digest": "sha256:988f141c6646b7ced2fdfd70a28ed4660239659b21ee004e87dadc7ad872f24d"
+        }
+      ]
+    },
+    {
+      "run_id": 38474662178,
+      "source_revision": "b24a78d2affea4e3d4e331825aae87587cbd9b92",
+      "created_at": "2026-10-13T21:59:48Z",
+      "artifacts": [
+        {
+          "id": 11854340149,
+          "name": "arm64-userspace-e4167e7f6594d23e248b532a3fb0de0d21b94bb7",
+          "size_in_bytes": 1553623973,
+          "expired": false,
+          "created_at": "2026-10-13T22:05:47Z",
+          "expires_at": "2026-11-12T22:05:31Z",
+          "published_digest": "sha256:f41a0321b8273f9427385c1b841e9fdf80ff4f3a175cfc73fa8824cfe87a6842"
+        },
+        {
+          "id": 11854005504,
+          "name": "ram-graphics-evidence-e4167e7f6594d23e248b532a3fb0de0d21b94bb7",
+          "size_in_bytes": 2400,
+          "expired": false,
+          "created_at": "2026-10-13T22:05:29Z",
+          "expires_at": "2026-11-12T22:05:28Z",
+          "published_digest": "sha256:f02ef1d1188256282fbe3d6b611b20bfd837daa489083dd11d893308d8c31a0f"
+        },
+        {
+          "id": 11853288507,
+          "name": "firstboot-build-e4167e7f6594d23e248b532a3fb0de0d21b94bb7",
+          "size_in_bytes": 13359106,
+          "expired": false,
+          "created_at": "2026-10-13T22:05:29Z",
+          "expires_at": "2026-11-12T22:05:27Z",
+          "published_digest": "sha256:c1392da1a4324e5d0194e9cbe17157cef6f9a06ac47371f9c819f772a6cd186f"
+        }
+      ]
+    },
+    {
+      "run_id": 38474662294,
+      "source_revision": "b24a78d2affea4e3d4e331825aae87587cbd9b92",
+      "created_at": "2026-10-13T21:59:48Z",
+      "artifacts": [
+        {
+          "id": 11853308231,
+          "name": "archived-ram-retest-e4167e7f6594d23e248b532a3fb0de0d21b94bb7",
+          "size_in_bytes": 16791,
+          "expired": false,
+          "created_at": "2026-10-13T22:01:57Z",
+          "expires_at": "2026-11-12T22:01:56Z",
+          "published_digest": "sha256:c6b0d59e3700d1f4b7ea10c7a6d150f82d3a3333536dadee30ab4bb4eed589e9"
+        }
+      ]
+    },
+    {
+      "run_id": 38475173965,
+      "source_revision": "a3be04f6742e5763d9fe6b1a95127f00d571fbec",
+      "created_at": "2026-10-13T22:04:01Z",
+      "artifacts": [
+        {
+          "id": 11854176270,
+          "name": "firstboot-build-5713181c607a134b3818355a849886fb51cdf2b8",
+          "size_in_bytes": 13362410,
+          "expired": false,
+          "created_at": "2026-10-13T22:12:37Z",
+          "expires_at": "2026-11-12T22:12:35Z",
+          "published_digest": "sha256:c8345b94346d8038850d68e41cb899bb353e2172e80f7894bd190e510c851939"
+        },
+        {
+          "id": 11853494210,
+          "name": "arm64-userspace-5713181c607a134b3818355a849886fb51cdf2b8",
+          "size_in_bytes": 456754505,
+          "expired": false,
+          "created_at": "2026-10-13T22:12:46Z",
+          "expires_at": "2026-11-12T22:12:42Z",
+          "published_digest": "sha256:1df65b93fa76a95885f504f93cdefeac1aa405ce791ab65c92463bc8dd4fdf90"
+        }
+      ]
+    },
+    {
+      "run_id": 38475174090,
+      "source_revision": "a3be04f6742e5763d9fe6b1a95127f00d571fbec",
+      "created_at": "2026-10-13T22:04:01Z",
+      "artifacts": [
+        {
+          "id": 11853149309,
+          "name": "archived-ram-retest-5713181c607a134b3818355a849886fb51cdf2b8",
+          "size_in_bytes": 25586,
+          "expired": false,
+          "created_at": "2026-10-13T22:08:18Z",
+          "expires_at": "2026-11-12T22:08:17Z",
+          "published_digest": "sha256:3f8c534e58e2536dcbc3f6474b722402edb250645ac996a085242b2863a595cb"
+        }
+      ]
+    },
+    {
+      "run_id": 38476042014,
+      "source_revision": "2d6506de2828d0ae8127b0206b1c1cab9298b58a",
+      "created_at": "2026-10-13T22:11:18Z",
+      "artifacts": [
+        {
+          "id": 11855220434,
+          "name": "ram-graphics-evidence-b5de155a71f4d4d9918eaa8c8a2fc3f3a12bbb62",
+          "size_in_bytes": 3408,
+          "expired": false,
+          "created_at": "2026-10-13T22:20:56Z",
+          "expires_at": "2026-11-12T22:20:55Z",
+          "published_digest": "sha256:da863415e289d0fdcfba0c91a46cab2d1bf875c78c2ddf61e545c319e9f7541c"
+        },
+        {
+          "id": 11855125727,
+          "name": "firstboot-build-b5de155a71f4d4d9918eaa8c8a2fc3f3a12bbb62",
+          "size_in_bytes": 13358491,
+          "expired": false,
+          "created_at": "2026-10-13T22:20:58Z",
+          "expires_at": "2026-11-12T22:20:56Z",
+          "published_digest": "sha256:c0b5ee224c4fea5e2f38e10bc5a1bda7c042b01f99e9add2d162dca8b45dec68"
+        },
+        {
+          "id": 11854197353,
+          "name": "arm64-userspace-b5de155a71f4d4d9918eaa8c8a2fc3f3a12bbb62",
+          "size_in_bytes": 2445202921,
+          "expired": false,
+          "created_at": "2026-10-13T22:21:12Z",
+          "expires_at": "2026-11-12T22:20:57Z",
+          "published_digest": "sha256:259318a848f796694c1c2ecc3d0e601c324f429ba47312554132085bfc02f888"
+        }
+      ]
+    },
+    {
+      "run_id": 38476042082,
+      "source_revision": "2d6506de2828d0ae8127b0206b1c1cab9298b58a",
+      "created_at": "2026-10-13T22:11:18Z",
+      "artifacts": [
+        {
+          "id": 11854057326,
+          "name": "archived-ram-retest-b5de155a71f4d4d9918eaa8c8a2fc3f3a12bbb62",
+          "size_in_bytes": 13215,
+          "expired": false,
+          "created_at": "2026-10-13T22:18:33Z",
+          "expires_at": "2026-11-12T22:18:32Z",
+          "published_digest": "sha256:d5d924d16cc666de284d86ef9674a8234e900b62206542b77095626fe8f5df40"
+        }
+      ]
+    },
+    {
+      "run_id": 38477011791,
+      "source_revision": "2adf9e05cba87def1d874ed1d7f299b9b9f74789",
+      "created_at": "2026-10-13T22:19:33Z",
+      "artifacts": [
+        {
+          "id": 11855185657,
+          "name": "firstboot-build-81949abe3282952151a22f461ba0fe1e1838b74b",
+          "size_in_bytes": 1040667,
+          "expired": false,
+          "created_at": "2026-10-13T22:23:24Z",
+          "expires_at": "2026-11-12T22:23:23Z",
+          "published_digest": "sha256:bd303c22816d900dc9f7baa875dd21128d2aaa2efd1af4fe95df0beec14b140b"
+        },
+        {
+          "id": 11854751998,
+          "name": "arm64-userspace-81949abe3282952151a22f461ba0fe1e1838b74b",
+          "size_in_bytes": 548114439,
+          "expired": false,
+          "created_at": "2026-10-13T22:23:26Z",
+          "expires_at": "2026-11-12T22:23:22Z",
+          "published_digest": "sha256:4fccd9d3c8e9d8c935b46c5556ffa3d0b9cb9d778f91b7fe0a1e67fa4f2a13a8"
+        }
+      ]
+    },
+    {
+      "run_id": 38477011949,
+      "source_revision": "2adf9e05cba87def1d874ed1d7f299b9b9f74789",
+      "created_at": "2026-10-13T22:19:33Z",
+      "artifacts": [
+        {
+          "id": 11853837900,
+          "name": "archived-ram-retest-81949abe3282952151a22f461ba0fe1e1838b74b",
+          "size_in_bytes": 530,
+          "expired": false,
+          "created_at": "2026-10-13T22:21:30Z",
+          "expires_at": "2026-11-12T22:21:30Z",
+          "published_digest": "sha256:1c4d8003e242255e1f860dae7c3e051e1405f1a3e1ef627a59c7eec818c94fea"
+        }
+      ]
+    },
+    {
+      "run_id": 38477372884,
+      "source_revision": "35f293818ed104ff7d7ce7652336b5f3f2d0b39a",
+      "created_at": "2026-10-13T22:22:39Z",
+      "artifacts": [
+        {
+          "id": 11856960152,
+          "name": "archived-ram-retest-061ddd336a344ea6216d1759e45d5f1b51248187",
+          "size_in_bytes": 28579,
+          "expired": false,
+          "created_at": "2026-10-13T22:26:44Z",
+          "expires_at": "2026-11-12T22:26:43Z",
+          "published_digest": "sha256:0105d7aef4aa317a44a2575a36bac591a9d2d395774c04d566bc405beb3b47e5"
+        }
+      ]
+    },
+    {
+      "run_id": 38477372911,
+      "source_revision": "35f293818ed104ff7d7ce7652336b5f3f2d0b39a",
+      "created_at": "2026-10-13T22:22:39Z",
+      "artifacts": [
+        {
+          "id": 11856660817,
+          "name": "firstboot-build-061ddd336a344ea6216d1759e45d5f1b51248187",
+          "size_in_bytes": 4846345,
+          "expired": false,
+          "created_at": "2026-10-13T22:30:19Z",
+          "expires_at": "2026-11-12T22:30:19Z",
+          "published_digest": "sha256:75dc457a85d39bfb6483e6a2cc7bdf74f45b2408f37e24f816addafd806eed5a"
+        },
+        {
+          "id": 11856490800,
+          "name": "ram-graphics-evidence-061ddd336a344ea6216d1759e45d5f1b51248187",
+          "size_in_bytes": 3409,
+          "expired": false,
+          "created_at": "2026-10-13T22:30:20Z",
+          "expires_at": "2026-11-12T22:30:19Z",
+          "published_digest": "sha256:f037d1ed48402fe1b22d1c8f85bc5a508d9430e2bfbaec7e63e92b108efce95b"
+        },
+        {
+          "id": 11856450710,
+          "name": "arm64-userspace-061ddd336a344ea6216d1759e45d5f1b51248187",
+          "size_in_bytes": 2445205370,
+          "expired": false,
+          "created_at": "2026-10-13T22:30:37Z",
+          "expires_at": "2026-11-12T22:30:21Z",
+          "published_digest": "sha256:3d4edb5b76355da8ae10516a47333206570790e6f9eb424c571df561eacab376"
+        }
+      ]
+    },
+    {
+      "run_id": 38478195974,
+      "source_revision": "63dd0b075dd2f2fbb10e307ca191032298b133a0",
+      "created_at": "2026-10-13T22:30:01Z",
+      "artifacts": [
+        {
+          "id": 11856743339,
+          "name": "arm64-userspace-01e1bf850657332f27b9661227afc5a79b0e8a07",
+          "size_in_bytes": 2445027902,
+          "expired": false,
+          "created_at": "2026-10-13T22:46:37Z",
+          "expires_at": "2026-11-12T22:46:22Z",
+          "published_digest": "sha256:1850775c60b62423a730563d12c9c04ea1a906440700e344d448bf42c9ef7860"
+        },
+        {
+          "id": 11856388279,
+          "name": "ram-graphics-evidence-01e1bf850657332f27b9661227afc5a79b0e8a07",
+          "size_in_bytes": 3410,
+          "expired": false,
+          "created_at": "2026-10-13T22:46:21Z",
+          "expires_at": "2026-11-12T22:46:20Z",
+          "published_digest": "sha256:4138e1f513b157205ee1c3e1ee4a4e0dc3cc75b6a684dcd0e88334877790b9d9"
+        },
+        {
+          "id": 11855617449,
+          "name": "firstboot-build-01e1bf850657332f27b9661227afc5a79b0e8a07",
+          "size_in_bytes": 18418081,
+          "expired": false,
+          "created_at": "2026-10-13T22:43:02Z",
+          "expires_at": "2026-11-12T22:43:00Z",
+          "published_digest": "sha256:634ab74a28bb5827bea04312092a22c76589df934eb2fa5e555d5f6cde6112bc"
+        }
+      ]
+    },
+    {
+      "run_id": 38478196105,
+      "source_revision": "63dd0b075dd2f2fbb10e307ca191032298b133a0",
+      "created_at": "2026-10-13T22:30:01Z",
+      "artifacts": [
+        {
+          "id": 11857256347,
+          "name": "archived-ram-retest-01e1bf850657332f27b9661227afc5a79b0e8a07",
+          "size_in_bytes": 101122,
+          "expired": false,
+          "created_at": "2026-10-13T22:36:32Z",
+          "expires_at": "2026-11-12T22:36:31Z",
+          "published_digest": "sha256:b1bf820d9796729830dc3a4463054a4671266f24a1f4a684079b7057e9f37ded"
+        }
+      ]
+    },
+    {
+      "run_id": 38479860113,
+      "source_revision": "69f4b1353e41d503859e52ecbbc24147bb2246cd",
+      "created_at": "2026-10-13T22:45:09Z",
+      "artifacts": [
+        {
+          "id": 11856563676,
+          "name": "archived-ram-retest-f548e022a18445c86d115e2079091f34f707a986",
+          "size_in_bytes": 100618,
+          "expired": false,
+          "created_at": "2026-10-13T22:54:58Z",
+          "expires_at": "2026-11-12T22:54:57Z",
+          "published_digest": "sha256:7d52aabe2587629a6ef71cf38b5656e1fc408864e460480776f415efcc4a6fec"
+        }
+      ]
+    },
+    {
+      "run_id": 38479860169,
+      "source_revision": "69f4b1353e41d503859e52ecbbc24147bb2246cd",
+      "created_at": "2026-10-13T22:45:09Z",
+      "artifacts": [
+        {
+          "id": 11856554225,
+          "name": "arm64-userspace-f548e022a18445c86d115e2079091f34f707a986",
+          "size_in_bytes": 2444989396,
+          "expired": false,
+          "created_at": "2026-10-13T22:57:52Z",
+          "expires_at": "2026-11-12T22:57:30Z",
+          "published_digest": "sha256:b6b0a8b7b9766f20396687d1a1485af2ba416666983a9c1278b77602b8fa2b86"
+        },
+        {
+          "id": 11856519665,
+          "name": "firstboot-build-f548e022a18445c86d115e2079091f34f707a986",
+          "size_in_bytes": 13359311,
+          "expired": false,
+          "created_at": "2026-10-13T22:57:29Z",
+          "expires_at": "2026-11-12T22:57:27Z",
+          "published_digest": "sha256:c5f1b2946c6402bdd64308ad904e321c0f1c0a8bbb9fe6e9281bd6076141c61f"
+        },
+        {
+          "id": 11856204078,
+          "name": "ram-graphics-evidence-f548e022a18445c86d115e2079091f34f707a986",
+          "size_in_bytes": 3413,
+          "expired": false,
+          "created_at": "2026-10-13T22:57:29Z",
+          "expires_at": "2026-11-12T22:57:28Z",
+          "published_digest": "sha256:a356fe2df8225fd2c522f3b878a56b93119df3a22fb9f5e032e70ffcdfb7d285"
+        }
+      ]
+    },
+    {
+      "run_id": 38481141968,
+      "source_revision": "405bae983ffb2406fb2168ee707866641c613759",
+      "created_at": "2026-10-13T22:57:03Z",
+      "artifacts": [
+        {
+          "id": 11857596034,
+          "name": "archived-ram-retest-deb5a6138b2ad22df8b3ee12ca87cf129bd33714",
+          "size_in_bytes": 20924,
+          "expired": false,
+          "created_at": "2026-10-13T23:04:21Z",
+          "expires_at": "2026-11-12T23:04:20Z",
+          "published_digest": "sha256:e8c9ed4553e822fdcdc3dd9f3c39f4f9869b2a82f6a082046063e316a6c61ca0"
+        }
+      ]
+    },
+    {
+      "run_id": 38481142020,
+      "source_revision": "405bae983ffb2406fb2168ee707866641c613759",
+      "created_at": "2026-10-13T22:57:03Z",
+      "artifacts": [
+        {
+          "id": 11858880649,
+          "name": "firstboot-build-deb5a6138b2ad22df8b3ee12ca87cf129bd33714",
+          "size_in_bytes": 13361052,
+          "expired": false,
+          "created_at": "2026-10-13T23:08:38Z",
+          "expires_at": "2026-11-12T23:08:36Z",
+          "published_digest": "sha256:dae3d8c18c1436ab6ebc1081001f30118e99334c3bd30b55414ca884066b6cfc"
+        },
+        {
+          "id": 11858800670,
+          "name": "arm64-userspace-deb5a6138b2ad22df8b3ee12ca87cf129bd33714",
+          "size_in_bytes": 2446316328,
+          "expired": false,
+          "created_at": "2026-10-13T23:08:54Z",
+          "expires_at": "2026-11-12T23:08:38Z",
+          "published_digest": "sha256:bdab9891d39f816c96035e6db1a4626516284f4dc836df39d8de2aaa89a49732"
+        },
+        {
+          "id": 11857611823,
+          "name": "ram-graphics-evidence-deb5a6138b2ad22df8b3ee12ca87cf129bd33714",
+          "size_in_bytes": 3411,
+          "expired": false,
+          "created_at": "2026-10-13T23:08:36Z",
+          "expires_at": "2026-11-12T23:08:36Z",
+          "published_digest": "sha256:4c8c77516dc517bac0e73a0e6126aa55f9cb80a2cd34a0d544b50d01c367c604"
+        }
+      ]
+    },
+    {
+      "run_id": 38482291208,
+      "source_revision": "1143a71ba1f5c007f78718ce06a8642b589bf24c",
+      "created_at": "2026-10-13T23:07:37Z",
+      "artifacts": [
+        {
+          "id": 11858237942,
+          "name": "archived-ram-retest-eb205dac56c5f5952311f43d9817845be06a215a",
+          "size_in_bytes": 5595798,
+          "expired": false,
+          "created_at": "2026-10-13T23:20:28Z",
+          "expires_at": "2026-11-12T23:20:27Z",
+          "published_digest": "sha256:4bee3b97855d75e11508c18c9ed1dac1f6162cc4ae55d800f5476d1387f7b34e"
+        }
+      ]
+    },
+    {
+      "run_id": 38482291228,
+      "source_revision": "1143a71ba1f5c007f78718ce06a8642b589bf24c",
+      "created_at": "2026-10-13T23:07:37Z",
+      "artifacts": [
+        {
+          "id": 11857973879,
+          "name": "arm64-userspace-eb205dac56c5f5952311f43d9817845be06a215a",
+          "size_in_bytes": 2488400587,
+          "expired": false,
+          "created_at": "2026-10-13T23:28:40Z",
+          "expires_at": "2026-11-12T23:28:21Z",
+          "published_digest": "sha256:3ed12df26df97ab825b5edfed12eef54fe433827b1b5433c936aa55e0050baf9"
+        },
+        {
+          "id": 11857883971,
+          "name": "ram-graphics-evidence-eb205dac56c5f5952311f43d9817845be06a215a",
+          "size_in_bytes": 15841,
+          "expired": false,
+          "created_at": "2026-10-13T23:28:20Z",
+          "expires_at": "2026-11-12T23:28:19Z",
+          "published_digest": "sha256:0c68cb0a7a8ed6d67790411d7a3e759293b9b041e0d086064203961dcb816c6b"
+        },
+        {
+          "id": 11857879277,
+          "name": "firstboot-build-eb205dac56c5f5952311f43d9817845be06a215a",
+          "size_in_bytes": 18422620,
+          "expired": false,
+          "created_at": "2026-10-13T23:22:45Z",
+          "expires_at": "2026-11-12T23:22:43Z",
+          "published_digest": "sha256:c4ba60a736d90ff5de706c41612831c356ab0289a18d76e7782b796bd278bbf3"
+        }
+      ]
+    },
+    {
+      "run_id": 38484327989,
+      "source_revision": "31e18471bf866eb44f73a33b31994d0e1a8fcfaf",
+      "created_at": "2026-10-13T23:27:11Z",
+      "artifacts": [
+        {
+          "id": 11860170422,
+          "name": "archived-ram-retest-e09a89c60abefcbcb1ddc3676f677ea2735f6aeb",
+          "size_in_bytes": 3790929,
+          "expired": false,
+          "created_at": "2026-10-13T23:37:09Z",
+          "expires_at": "2026-11-12T23:37:07Z",
+          "published_digest": "sha256:a8a9f203a953ee924ebf16f8f3d76ed9ff898981cabe4ab368d3106886f416aa"
+        }
+      ]
+    },
+    {
+      "run_id": 38484327993,
+      "source_revision": "31e18471bf866eb44f73a33b31994d0e1a8fcfaf",
+      "created_at": "2026-10-13T23:27:11Z",
+      "artifacts": [
+        {
+          "id": 11860480217,
+          "name": "ram-graphics-evidence-e09a89c60abefcbcb1ddc3676f677ea2735f6aeb",
+          "size_in_bytes": 4388465,
+          "expired": false,
+          "created_at": "2026-10-13T23:56:29Z",
+          "expires_at": "2026-11-12T23:56:28Z",
+          "published_digest": "sha256:9f58352735c82fd0fca6d28e58448432da533149ea6aad65c76b2c0410fa18ca"
+        },
+        {
+          "id": 11859937920,
+          "name": "arm64-userspace-e09a89c60abefcbcb1ddc3676f677ea2735f6aeb",
+          "size_in_bytes": 2509941863,
+          "expired": false,
+          "created_at": "2026-10-13T23:56:44Z",
+          "expires_at": "2026-11-12T23:56:30Z",
+          "published_digest": "sha256:722843591011c9276c2ba9cce90a6601f1214bdf4151ddcc71854a655e1d3a0f"
+        },
+        {
+          "id": 11859656760,
+          "name": "firstboot-build-e09a89c60abefcbcb1ddc3676f677ea2735f6aeb",
+          "size_in_bytes": 18423258,
+          "expired": false,
+          "created_at": "2026-10-13T23:43:26Z",
+          "expires_at": "2026-11-12T23:43:25Z",
+          "published_digest": "sha256:1096e4e1fd04bb4185a8b61b635799da8532a35e1df4059b4f32eefcbd13a584"
+        }
+      ]
+    },
+    {
+      "run_id": 38487601566,
+      "source_revision": "8df35ce727b75b6510201eb0efc1eada49b7daf2",
+      "created_at": "2026-10-14T00:00:11Z",
+      "artifacts": [
+        {
+          "id": 11859714660,
+          "name": "archived-ram-retest-0e6a6cd626fa0bb9853c165e6b3ecd82d4b6fd94",
+          "size_in_bytes": 4407871,
+          "expired": false,
+          "created_at": "2026-10-14T00:09:30Z",
+          "expires_at": "2026-11-13T00:09:29Z",
+          "published_digest": "sha256:5d2276d52517f1d6e5ca4c83313cc696f74493588ec03e8de33086d86daed24d"
+        }
+      ]
+    },
+    {
+      "run_id": 38487601687,
+      "source_revision": "8df35ce727b75b6510201eb0efc1eada49b7daf2",
+      "created_at": "2026-10-14T00:00:11Z",
+      "artifacts": [
+        {
+          "id": 11861370141,
+          "name": "ram-graphics-evidence-0e6a6cd626fa0bb9853c165e6b3ecd82d4b6fd94",
+          "size_in_bytes": 3412,
+          "expired": false,
+          "created_at": "2026-10-14T00:13:27Z",
+          "expires_at": "2026-11-13T00:13:26Z",
+          "published_digest": "sha256:58acb4ebe7d5d729ffa19475a601c8b572a071f77980fa5414b971e10b0fc695"
+        },
+        {
+          "id": 11861165446,
+          "name": "arm64-userspace-0e6a6cd626fa0bb9853c165e6b3ecd82d4b6fd94",
+          "size_in_bytes": 2482051140,
+          "expired": false,
+          "created_at": "2026-10-14T00:13:54Z",
+          "expires_at": "2026-11-13T00:13:29Z",
+          "published_digest": "sha256:4122a92e7b90ac652d456e2eb0dde1f0e26f38ae2fda255cca8f865a3c00e67d"
+        },
+        {
+          "id": 11860816987,
+          "name": "firstboot-build-0e6a6cd626fa0bb9853c165e6b3ecd82d4b6fd94",
+          "size_in_bytes": 13366487,
+          "expired": false,
+          "created_at": "2026-10-14T00:13:29Z",
+          "expires_at": "2026-11-13T00:13:27Z",
+          "published_digest": "sha256:59fe9e164cefb90e18e36a325f32d32b4bdb8356780088ded56e3803bb9a6444"
+        }
+      ]
+    },
+    {
+      "run_id": 38488850487,
+      "source_revision": "7b32dbae00a8e08dd0af04bc57210fda76c6c7dc",
+      "created_at": "2026-10-14T00:12:47Z",
+      "artifacts": [
+        {
+          "id": 11861440579,
+          "name": "arm64-userspace-f994f8e4e8b8a709c4f8ef90d8a90898e4b2567e",
+          "size_in_bytes": 726004365,
+          "expired": false,
+          "created_at": "2026-10-14T00:17:24Z",
+          "expires_at": "2026-11-13T00:17:18Z",
+          "published_digest": "sha256:11b6e5cf7d231c5efbf59c493dfa3d557b4d40d6f3ba6c26e9233969786f5df3"
+        },
+        {
+          "id": 11860742690,
+          "name": "firstboot-build-f994f8e4e8b8a709c4f8ef90d8a90898e4b2567e",
+          "size_in_bytes": 1049271,
+          "expired": false,
+          "created_at": "2026-10-14T00:17:18Z",
+          "expires_at": "2026-11-13T00:17:17Z",
+          "published_digest": "sha256:f9a76035a047992ee301cc427ff1162c4320678deabbc25250bca26e94fe14b1"
+        }
+      ]
+    },
+    {
+      "run_id": 38488850544,
+      "source_revision": "7b32dbae00a8e08dd0af04bc57210fda76c6c7dc",
+      "created_at": "2026-10-14T00:12:47Z",
+      "artifacts": [
+        {
+          "id": 11860939001,
+          "name": "archived-ram-retest-f994f8e4e8b8a709c4f8ef90d8a90898e4b2567e",
+          "size_in_bytes": 4387951,
+          "expired": false,
+          "created_at": "2026-10-14T00:25:51Z",
+          "expires_at": "2026-11-13T00:25:49Z",
+          "published_digest": "sha256:633729d884587bad23054d6008126f342f49c7f1b8d3c60963448fc862623783"
+        }
+      ]
+    },
+    {
+      "run_id": 38489241820,
+      "source_revision": "dab0568536cbb1f46343f7ba5282b203f9874095",
+      "created_at": "2026-10-14T00:16:44Z",
+      "artifacts": [
+        {
+          "id": 11861930046,
+          "name": "firstboot-build-3656e110030241e44ef29e4338fec5a6adccac2f",
+          "size_in_bytes": 13366349,
+          "expired": false,
+          "created_at": "2026-10-14T00:29:21Z",
+          "expires_at": "2026-11-13T00:29:19Z",
+          "published_digest": "sha256:60cc49550f08afde0e5cf2cfa7fae4d6ea66f628d960e9a0e14b26533eda4271"
+        },
+        {
+          "id": 11861059634,
+          "name": "ram-graphics-evidence-3656e110030241e44ef29e4338fec5a6adccac2f",
+          "size_in_bytes": 3410,
+          "expired": false,
+          "created_at": "2026-10-14T00:29:21Z",
+          "expires_at": "2026-11-13T00:29:20Z",
+          "published_digest": "sha256:c769f5a9f7d27234c9f8f96c725d37d2aba78a5ec9d45e480ba28e921ceb3577"
+        },
+        {
+          "id": 11860679945,
+          "name": "arm64-userspace-3656e110030241e44ef29e4338fec5a6adccac2f",
+          "size_in_bytes": 2482077783,
+          "expired": false,
+          "created_at": "2026-10-14T00:29:49Z",
+          "expires_at": "2026-11-13T00:29:23Z",
+          "published_digest": "sha256:b07fd619c82b18d4365d50f8de93c6d2833b71d6ba788108ecb083f184415bef"
+        }
+      ]
+    },
+    {
+      "run_id": 38489241953,
+      "source_revision": "dab0568536cbb1f46343f7ba5282b203f9874095",
+      "created_at": "2026-10-14T00:16:44Z",
+      "artifacts": [
+        {
+          "id": 11861347479,
+          "name": "archived-ram-retest-3656e110030241e44ef29e4338fec5a6adccac2f",
+          "size_in_bytes": 12052080,
+          "expired": false,
+          "created_at": "2026-10-14T00:30:54Z",
+          "expires_at": "2026-11-13T00:30:53Z",
+          "published_digest": "sha256:05b1f0ad45580ca24678648bd0d9391b0123a19f97b884e47923ae1e83d41adf"
+        }
+      ]
+    },
+    {
+      "run_id": 38490342913,
+      "source_revision": "5371bda70760847bf40a812ae1ba554254951144",
+      "created_at": "2026-10-14T00:28:08Z",
+      "artifacts": [
+        {
+          "id": 11862087199,
+          "name": "arm64-userspace-a00bf0b2eb5481686b9c0b7645a4f8c0e68a107c",
+          "size_in_bytes": 2482086564,
+          "expired": false,
+          "created_at": "2026-10-14T00:43:23Z",
+          "expires_at": "2026-11-13T00:43:06Z",
+          "published_digest": "sha256:a0e9cf916908190e3bdf5a7cbd6a33a11fa18502b2f8b3464c0c6dce8dc351d7"
+        },
+        {
+          "id": 11862027200,
+          "name": "ram-graphics-evidence-a00bf0b2eb5481686b9c0b7645a4f8c0e68a107c",
+          "size_in_bytes": 3412,
+          "expired": false,
+          "created_at": "2026-10-14T00:43:04Z",
+          "expires_at": "2026-11-13T00:43:04Z",
+          "published_digest": "sha256:d7b8c052c000b940384d2fa64f2612d8dec7f3073e4f493f751718550abb38ef"
+        },
+        {
+          "id": 11861198313,
+          "name": "firstboot-build-a00bf0b2eb5481686b9c0b7645a4f8c0e68a107c",
+          "size_in_bytes": 18423263,
+          "expired": false,
+          "created_at": "2026-10-14T00:37:05Z",
+          "expires_at": "2026-11-13T00:37:04Z",
+          "published_digest": "sha256:5648118fadb575466ff081831e9ce31b8d5777dd31e618b5f3fd34475947a760"
+        }
+      ]
+    },
+    {
+      "run_id": 38490342944,
+      "source_revision": "5371bda70760847bf40a812ae1ba554254951144",
+      "created_at": "2026-10-14T00:28:08Z",
+      "artifacts": [
+        {
+          "id": 11861313859,
+          "name": "archived-ram-retest-a00bf0b2eb5481686b9c0b7645a4f8c0e68a107c",
+          "size_in_bytes": 4380083,
+          "expired": false,
+          "created_at": "2026-10-14T00:41:12Z",
+          "expires_at": "2026-11-13T00:41:11Z",
+          "published_digest": "sha256:36fe13d23bd914c43006f8caec53c04db742e3dd40dbea12a50bf55a8af4519a"
+        },
+        {
+          "id": 11861243290,
+          "name": "menu-command-2048-a00bf0b2eb5481686b9c0b7645a4f8c0e68a107c",
+          "size_in_bytes": 1889516,
+          "expired": false,
+          "created_at": "2026-10-14T00:36:16Z",
+          "expires_at": "2026-11-13T00:36:15Z",
+          "published_digest": "sha256:1481378fb52b3f41f758066bb2bc907e7fbcadb6b9d3f2fcb8830e4424f90b0e"
+        }
+      ]
+    },
+    {
+      "run_id": 38491602155,
+      "source_revision": "1a47d64fd7b0a76dce42222ee1cd23ef245ff8e8",
+      "created_at": "2026-10-14T00:41:35Z",
+      "artifacts": [
+        {
+          "id": 11861814054,
+          "name": "menu-command-2048-3114a80e64ecbe4394973b77f090f931ea6b2ba1",
+          "size_in_bytes": 2485654,
+          "expired": false,
+          "created_at": "2026-10-14T00:50:40Z",
+          "expires_at": "2026-11-13T00:50:39Z",
+          "published_digest": "sha256:6ff8b853437d451bf25aa3bd766015d29f22dff581be39ad00836d562ac51036"
+        },
+        {
+          "id": 11861599770,
+          "name": "archived-ram-retest-3114a80e64ecbe4394973b77f090f931ea6b2ba1",
+          "size_in_bytes": 12628288,
+          "expired": false,
+          "created_at": "2026-10-14T00:59:48Z",
+          "expires_at": "2026-11-13T00:59:46Z",
+          "published_digest": "sha256:6eafe00cebdff885191524e7d02b92661aadd966c341c4d25686aeb927d87e17"
+        }
+      ]
+    },
+    {
+      "run_id": 38491602320,
+      "source_revision": "1a47d64fd7b0a76dce42222ee1cd23ef245ff8e8",
+      "created_at": "2026-10-14T00:41:35Z",
+      "artifacts": []
+    },
+    {
+      "run_id": 38491953690,
+      "source_revision": "c43beda1d2bcca9e38e85948d16aa963e0c8eeb2",
+      "created_at": "2026-10-14T00:45:25Z",
+      "artifacts": [
+        {
+          "id": 11863481139,
+          "name": "ram-graphics-evidence-b5b39bd161c500226d77809fb8efe1b47171a51e",
+          "size_in_bytes": 10632965,
+          "expired": false,
+          "created_at": "2026-10-14T01:06:36Z",
+          "expires_at": "2026-11-13T01:06:34Z",
+          "published_digest": "sha256:0b37ce529aa74f3739dd2a172ebac22e33c919ccf8a7652bcebe289d09f9cc91"
+        },
+        {
+          "id": 11863201473,
+          "name": "arm64-userspace-b5b39bd161c500226d77809fb8efe1b47171a51e",
+          "size_in_bytes": 2547907541,
+          "expired": false,
+          "created_at": "2026-10-14T01:06:55Z",
+          "expires_at": "2026-11-13T01:06:38Z",
+          "published_digest": "sha256:cf7dd880d3108da8636e44309fed2757b30ee8c40a4e03d9bc84854b0d50ff34"
+        },
+        {
+          "id": 11862670591,
+          "name": "firstboot-build-b5b39bd161c500226d77809fb8efe1b47171a51e",
+          "size_in_bytes": 18423255,
+          "expired": false,
+          "created_at": "2026-10-14T00:56:01Z",
+          "expires_at": "2026-11-13T00:56:00Z",
+          "published_digest": "sha256:aed04b6510f0368bfa884e09a7aeb9df7f33bd83a6acece59102697269b8b0e6"
+        }
+      ]
+    },
+    {
+      "run_id": 38491953696,
+      "source_revision": "c43beda1d2bcca9e38e85948d16aa963e0c8eeb2",
+      "created_at": "2026-10-14T00:45:25Z",
+      "artifacts": [
+        {
+          "id": 11863205249,
+          "name": "archived-ram-retest-b5b39bd161c500226d77809fb8efe1b47171a51e",
+          "size_in_bytes": 11435149,
+          "expired": false,
+          "created_at": "2026-10-14T00:59:47Z",
+          "expires_at": "2026-11-13T00:59:45Z",
+          "published_digest": "sha256:2abe75f323bd6a0865e95556f4dd8d267f903e795a601c55d500ab023bc548b0"
+        },
+        {
+          "id": 11862800572,
+          "name": "menu-command-2048-b5b39bd161c500226d77809fb8efe1b47171a51e",
+          "size_in_bytes": 1889118,
+          "expired": false,
+          "created_at": "2026-10-14T00:52:43Z",
+          "expires_at": "2026-11-13T00:52:42Z",
+          "published_digest": "sha256:328b3cd1a4f37028e5c28e5f58360b2eaeb121683173c1a5f511d6d85aa6dff4"
+        }
+      ]
+    },
+    {
+      "run_id": 38492730896,
+      "source_revision": "051eeb7c4591f4910fd4c271c9db4b508245245f",
+      "created_at": "2026-10-14T00:53:53Z",
+      "artifacts": [
+        {
+          "id": 11862079915,
+          "name": "archived-ram-retest-051eeb7c4591f4910fd4c271c9db4b508245245f",
+          "size_in_bytes": 2939,
+          "expired": false,
+          "created_at": "2026-10-14T00:58:44Z",
+          "expires_at": "2026-11-13T00:58:43Z",
+          "published_digest": "sha256:fa6ef57cb5eb24e6b1d9da8f6786f065378bbe47419924e421ed6126656e959e"
+        }
+      ]
+    },
+    {
+      "run_id": 38493312724,
+      "source_revision": "cb0659bd41c64e5cb3a8620e8baa2de2d855c574",
+      "created_at": "2026-10-14T01:00:15Z",
+      "artifacts": [
+        {
+          "id": 11863372056,
+          "name": "menu-command-2048-cb0659bd41c64e5cb3a8620e8baa2de2d855c574",
+          "size_in_bytes": 2513256,
+          "expired": false,
+          "created_at": "2026-10-14T01:11:32Z",
+          "expires_at": "2026-11-13T01:11:31Z",
+          "published_digest": "sha256:f7d32eb32470295034c3fe3eaa878e5517b2d2e7b9b952c05a04e40f95244a32"
+        },
+        {
+          "id": 11863172685,
+          "name": "archived-ram-retest-cb0659bd41c64e5cb3a8620e8baa2de2d855c574",
+          "size_in_bytes": 12699722,
+          "expired": false,
+          "created_at": "2026-10-14T01:21:20Z",
+          "expires_at": "2026-11-13T01:21:18Z",
+          "published_digest": "sha256:6000b9c6a0374d737f5ff9e6fc505a385ff0f1710e821041b7182cf88db3ec16"
+        }
+      ]
+    },
+    {
+      "run_id": 38494636359,
+      "source_revision": "619fefa4fc056dfe82d281f3436db941f3e26244",
+      "created_at": "2026-10-14T01:14:36Z",
+      "artifacts": [
+        {
+          "id": 11864590760,
+          "name": "arm64-userspace-63b970d7fbf95c03c63ee3ab71f389c0954ab70c",
+          "size_in_bytes": 2547910712,
+          "expired": false,
+          "created_at": "2026-10-14T01:34:25Z",
+          "expires_at": "2026-11-13T01:34:04Z",
+          "published_digest": "sha256:7433bb7909216bff06a3ad9a8f3f4057565ba579dfe557d70860e0b1bc4e0fd6"
+        },
+        {
+          "id": 11864196068,
+          "name": "ram-graphics-evidence-63b970d7fbf95c03c63ee3ab71f389c0954ab70c",
+          "size_in_bytes": 10039768,
+          "expired": false,
+          "created_at": "2026-10-14T01:34:03Z",
+          "expires_at": "2026-11-13T01:34:01Z",
+          "published_digest": "sha256:30c4284b341a793218fe9ee9540e944116fd55df103c6a347ef54da322c57b95"
+        },
+        {
+          "id": 11863670608,
+          "name": "firstboot-build-63b970d7fbf95c03c63ee3ab71f389c0954ab70c",
+          "size_in_bytes": 18423252,
+          "expired": false,
+          "created_at": "2026-10-14T01:21:57Z",
+          "expires_at": "2026-11-13T01:21:56Z",
+          "published_digest": "sha256:c6e82de488c0a1d2fa01383157d7470f83e2e6f818dcf8cb012915cc5b074f30"
+        }
+      ]
+    },
+    {
+      "run_id": 38494636362,
+      "source_revision": "619fefa4fc056dfe82d281f3436db941f3e26244",
+      "created_at": "2026-10-14T01:14:36Z",
+      "artifacts": [
+        {
+          "id": 11863642251,
+          "name": "archived-ram-retest-63b970d7fbf95c03c63ee3ab71f389c0954ab70c",
+          "size_in_bytes": 10020154,
+          "expired": false,
+          "created_at": "2026-10-14T01:30:18Z",
+          "expires_at": "2026-11-13T01:30:17Z",
+          "published_digest": "sha256:1066c8de1d1714e2d76b3d4db2ac85bbbcdfa90b37e9cd0b9aae7190b1ac6cc2"
+        },
+        {
+          "id": 11863333900,
+          "name": "menu-command-2048-63b970d7fbf95c03c63ee3ab71f389c0954ab70c",
+          "size_in_bytes": 1889213,
+          "expired": false,
+          "created_at": "2026-10-14T01:22:11Z",
+          "expires_at": "2026-11-13T01:22:11Z",
+          "published_digest": "sha256:9452af710ee995a07c867a6a70839c93b44721452f6532b37555008fbd523e9c"
+        }
+      ]
+    },
+    {
+      "run_id": 38898023873,
+      "source_revision": "3daea0825fbd0a6b78e5df87dabfb69fe007418a",
+      "created_at": "2026-10-16T12:04:38Z",
+      "artifacts": []
+    }
+  ]
+}
